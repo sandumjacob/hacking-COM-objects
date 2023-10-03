@@ -14,3 +14,4 @@ https://learn.microsoft.com/en-us/windows/win32/com/ole-com-object-viewer
 ### https://learn.microsoft.com/en-us/windows/win32/com/the-component-object-model
 ### https://www.hackingarticles.in/windows-persistence-com-hijacking-mitre-t1546-015/
 ### https://www.mdsec.co.uk/2022/04/process-injection-via-component-object-model-com-irundowndocallback/
+### https://the-deniss.github.io/posts/2021/05/17/discovering-and-exploiting-mcafee-com-objects.html
